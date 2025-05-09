@@ -1,1 +1,1 @@
-Learning how use git
+Learning how use git with terminal
